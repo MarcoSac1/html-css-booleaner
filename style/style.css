@@ -1,0 +1,13 @@
+header{
+    height: 180px;
+    width:100%;
+    background-color: teal;  
+    background-image: url(../img/pattern.png);
+    
+}
+
+#logo{
+    width: 15em;
+    margin-top: 6%;
+    margin-left: 1%;
+}

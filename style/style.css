@@ -5,9 +5,36 @@ header{
     background-image: url(../img/pattern.png);
     
 }
-
 #logo{
     width: 15em;
-    margin-top: 6%;
+    margin-top: 120px;
     margin-left: 1%;
+}
+h1{
+    font-size: 35px;
+    font-weight: 800;
+}
+.autore{
+    font-size:18px;
+    font-weight:bold;
+    color: gray;
+}
+#booleaners{
+    color:rgb(33, 132, 219);
+}
+.data{
+    font-size: 14px;
+    font-weight: bold;
+    color: gray;
+}
+.foto-Tim{
+    display: block;
+    padding-top: 200px;
+    height: 362px;
+    margin-bottom: 25px;
+}
+p{
+    font-size: 14px;
+    font-weight: 400;
+    font-weight: bold;
 }

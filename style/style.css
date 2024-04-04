@@ -55,10 +55,18 @@ th{
 tr:nth-child(2n+1){
     background-color:rgb(13, 223, 223);
 }
-
-.text-monitor{
-    position: absolute;
-    text-align: center;
+.font-white{
     color: white;
-    font-size: larger;
+}
+.box{
+    height: 160px;
+    width: 200px;
+    padding-left: .25rem;
+    background-size: cover;
+}
+.advicemonitor{
+    background-image: url(../img/monitor.jpg);
+}
+.advicegraph{
+    background-image: url(../img/graph.jpg);
 }

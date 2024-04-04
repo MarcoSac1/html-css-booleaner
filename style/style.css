@@ -49,8 +49,13 @@ th{
     text-align: left;
 
 }
-tr:nth-child(2n+1)
-{
+tr:nth-child(2n+1){
     background-color:rgb(13, 223, 223);
 }
 
+.text-monitor{
+    position: absolute;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
